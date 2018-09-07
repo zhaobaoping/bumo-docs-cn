@@ -14,6 +14,6 @@ Contents:
    
    docs/BUMO Keypair手册
    docs/交易所对接指南
-   docs/BUMO_JAVA_SDK指南
+   docs/BUMO JAVA SDK 指南
    docs/BUMO节点安装运维指南
 
