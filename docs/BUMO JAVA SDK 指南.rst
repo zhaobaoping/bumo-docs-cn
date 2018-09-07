@@ -1923,11 +1923,10 @@ buildBlob
 ``buildBlob`` 接口用于序列化交易，生成交易Blob串，便于网络传输。
 
 .. note:: 在调用buildBlob之前需要构建一些操作，目前操作有16种，分别是：``AccountActivateOperation``、
-``AccountSetMetadataOperation``、``AccountSetPrivilegeOperation``、``AssetIssueOperation``、
-``AssetSendOperation``、``BUSendOperation``、``TokenIssueOperation``、``TokenTransferOperation``、
-``TokenTransferFromOperation``、``TokenApproveOperation``、``TokenAssignOperation``、
-``TokenChangeOwnerOperation``、``ContractCreateOperation``、``ContractInvokeByAssetOperation``、
-``ContractInvokeByBUOperation``、``LogCreateOperation``。
+   ``AccountSetMetadataOperation``、``AccountSetPrivilegeOperation``、``AssetIssueOperation``、``AssetSendOperation``、
+   ``BUSendOperation``、``TokenIssueOperation``、``TokenTransferOperation``、``TokenTransferFromOperation``、
+   ``TokenApproveOperation``、``TokenAssignOperation``、 ``TokenChangeOwnerOperation``、``ContractCreateOperation``、
+   ``ContractInvokeByAssetOperation``、``ContractInvokeByBUOperation``、``LogCreateOperation``。
 
 调用方法如下所示：
 
@@ -2825,8 +2824,8 @@ TransactionHistory的具体信息如下表所示：
 --------
 
 区块服务提供区块相关的接口，目前有11个接口：``getNumber``、``checkStatus``、``getTransactions``、
-``getInfo``、``getLatestInfo``、``getValidators``、``getLatestValidators``、``getReward``、
-``getLatestReward``、``getFees``、``getLatestFees``。
+``getInfo``、``getLatestInfo``、``getValidators``、``getLatestValidators``、``getReward``、``getLatestReward``、
+``getFees``、``getLatestFees``。
 
 getNumber
 ~~~~~~~~~
