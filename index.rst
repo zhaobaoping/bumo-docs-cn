@@ -11,6 +11,6 @@ Contents:
 .. toctree::
    :maxdepth: 4
    
-   
+   docs/BUMO Keypair 手册
    docs/BUMO JAVA SDK 指南
    
