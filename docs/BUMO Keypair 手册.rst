@@ -11,8 +11,6 @@ BUMO Keypair手册
 
 *Emphasis*
 
-`Interpreted Text`
-
 ``Inline Literals``
 
 
